@@ -3,7 +3,10 @@
 
 ## Currently this project just works for pdf formatted resume
 
-## This project requires en_core_web_lg model
+## To download the dependencies
+`pip install -r requirements.txt`
+
+## This project requires spacy en_core_web_lg model
 * To download it:
 `python -m spacy download en_core_web_lg`
 
