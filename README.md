@@ -1,7 +1,11 @@
 
 # Resume-Extraction
+---
 
-## Currently this project just works for pdf formatted resume
+**Note**
+*Currently this project just works for pdf formatted resume*
+
+---
 
 ## To download the dependencies
 `pip install -r requirements.txt`
