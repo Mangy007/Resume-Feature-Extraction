@@ -2,7 +2,7 @@
 # Resume-Extraction
 ---
 
-**Note**
+**Note - **
 *Currently this project just works for pdf formatted resume*
 
 ---
