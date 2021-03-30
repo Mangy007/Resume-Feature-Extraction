@@ -14,6 +14,46 @@
 * To download it:
 `python -m spacy download en_core_web_lg`
 
+## Result
+    {'name': 'Kumar Mangalam',
+        'experience': 1.09,
+        'education': 4.0,
+        'skills': ['Java',
+                    ' SQL',
+                    ' Python',
+                    'Bootstrap',
+                    ' jQuery',
+                    ' d3.js',
+                    '\xa0 HTML5',
+                    ' CSS3',
+                    ' Javascript',
+                    '\xa0 Kibana',
+                    'MongoDB',
+                    ' OrientDB',
+                    ' MySQL',
+                    '\xa0 ElasticSearch',
+                    'Docker',
+                    ' gUnicorn',
+                    ' Nginx',
+                    '\xa0 Airflow',
+                    'Pandas',
+                    ' Numpy',
+                    ' Matplotlib',
+                    '\xa0 Seaborn',
+                    ' Sklearn',
+                    ' OpenCV',
+                    '\xa0 Tensorflow',
+                    'RNN',
+                    ' LSTM',
+                    ' CNN',
+                    ' Attention',
+                    '\xa0 Transformer',
+                    ' YOLO',
+                    ' SNN',
+                    '\xa0 Transfer learning',
+                    ' Statistical\xa0 classification'],
+        'mail_id': 'manguatwork@gmail.com',
+        'contact_number': '9876543210'}
 
 ## few case are not catered yet:
 <ul>
